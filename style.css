@@ -176,7 +176,7 @@ img{
 #projects .grid .button-container{
     margin-bottom: 12px;
     margin-top: 5px;
-    overflow: initial;
+    overflow: initial!important;
 }
 
 #projects .grid a{
