@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
 }
 
 body{
