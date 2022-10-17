@@ -11,7 +11,7 @@
 body{
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    overflow-x: hidden;
+    overflow-x: hidden!important;
     scroll-behavior: smooth;
 }
 
@@ -176,6 +176,7 @@ img{
 #projects .grid .button-container{
     margin-bottom: 12px;
     margin-top: 5px;
+    overflow: initial;
 }
 
 #projects .grid a{
